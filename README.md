@@ -9,12 +9,16 @@ Originally planned to just be an updated soundengine for TURBOBOOST!, the projec
 **All pre-existing features from the original Sound Engine will be present in SEV2.** 
 
 Major features being planned for SEV2 include some of the following:
+
 ⬜ Seamless Rail Grinding + Rail Transitions
+
 ⬜ Destructable Crates
+
 ⬜ Light Speed Dash (LSD) + Homing Attack Momentum
+
 ⬜ Imrpoved Acceleration/Deacceleration, Improved Homing Attack
 
-+ Additional Features TBD...
+ and additional features TBD...
 
 
 ## Credits
