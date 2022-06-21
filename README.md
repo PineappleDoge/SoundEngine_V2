@@ -10,8 +10,8 @@ Originally planned to just be an updated soundengine for TURBOBOOST!, the projec
 
 Major features being planned for SEV2 include some of the following:
 
- ⬜ Seamless Rail Grinding + Rail Transitions
- ⬜ Destructable Crates
+- Seamless Rail Grinding + Rail Transitions
+- Destructable Crates
 - Light Speed Dash (LSD) + Homing Attack Momentum
 - Imrpoved Acceleration/Deacceleration, Improved Homing Attack
 
